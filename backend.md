@@ -16,13 +16,19 @@ Todo dia precisamos de um report sobre a situação das tarefas, e caso haja alg
 
 ## Requisitos:
 
+# Ter uma empresa aberta para emissão de Notas Fiscais (Gostamos de fazer tudo certinho, portanto ter uma empresa é fundamental)
 * Ser responsável quanto prazos e tarefas
 * Ter Ruby on Rails na veia!
 * Trabalhar com Github
-* Ter uma base em Angular JS
+* Ter uma base em Angular JS, e Jquery
 * Manjar um pouco de AWS e Heroku 
 * Ter trabalhado ou saber trabalhar com a construção de API's, utilizando padrões como JSON API.
 * Ter experiência com a construção/integração com gateways de pagamento é um diferencial
+
+## Salário
+
+Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R$ 50 / hora, pagos por empreitada, ou seja, assim que você fechar um bloco de tarefas, você já recebe!
+
 
 # Fale com a gente!
 
