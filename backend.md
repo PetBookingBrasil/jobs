@@ -12,7 +12,7 @@ Esta oportunidade é para um dev que possa nos ajudar pelo menos 15 horas por se
 
 Trabalhamos da seguinte forma:
 
-Todo dia precisamos de um report sobre a situação das tarefas, e caso haja algum problema durante a execução agilizamos esforços para resolvê-lo o quanto antes.
+Todo dia precisamos de um report sobre a situação das tarefas, e caso haja algum problema durante a execução agilizamos esforços para resolvê-lo o quanto antes. O Job é remoto, entretanto, caso você esteja em Curitiba, podemos fazer algumas reuniões presenciais.
 
 ## Requisitos:
 
