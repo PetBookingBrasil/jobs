@@ -30,8 +30,8 @@ Todo dia precisamos de um report sobre a situação das tarefas, e caso haja alg
 Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R$ 50 / hora, pagos por empreitada, ou seja, assim que você fechar um bloco de tarefas, você já recebe!
 
 
-# Fale com a gente!
+# Curtiu? Então fala com a gente!
 
-Se você se encaixa nesses requisitos mande um email agora mesmo pra gente!
+Se você se encaixa nesses requisitos mande seu CV pra gente!
 
 douglas@petbooking.com.br
