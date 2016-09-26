@@ -16,7 +16,7 @@ Todo dia precisamos de um report sobre a situação das tarefas, e caso haja alg
 
 ## Requisitos:
 
-# Ter uma empresa aberta para emissão de Notas Fiscais (Gostamos de fazer tudo certinho, portanto ter uma empresa é fundamental)
+* Ter uma empresa aberta para emissão de Notas Fiscal
 * Ser responsável quanto prazos e tarefas
 * Ter Ruby on Rails na veia!
 * Trabalhar com Github
