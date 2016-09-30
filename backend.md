@@ -1,3 +1,6 @@
+
+# [PROCESSO SELETIVO ENCERRADO]
+
 # Sobre nós
 
 Somos um e-marketplace que tem como objetivo fornecer soluções tecnologicas e inovadoras para facilitar o dia a dia de empresas prestadoras de serviços do segmento Pet e das pessoas que possuem Pets, tornando mais fácil o agendamento de serviços de banho, tosa, consultas veterinárias, hoteiszinhos, creches, passeadores, entre outros, de forma simples, rápida e segura e a qualquer hora. 
@@ -34,4 +37,4 @@ Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R
 
 Se você se encaixa nesses requisitos mande seu CV pra gente!
 
-douglas@petbooking.com.br
+# [PROCESSO SELETIVO ENCERRADO]

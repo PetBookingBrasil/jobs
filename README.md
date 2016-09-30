@@ -2,4 +2,4 @@
 
 # jobs
 
-* [Backend - Freelancer](/backend.md)
+## Infelizmente não temos nenhum processo seletivo aberto no momento. =(
