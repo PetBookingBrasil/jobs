@@ -7,7 +7,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 
-Estamos em busca de um freelancer PJ backend, pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
+Estamos em busca de um freelancer PJ iOS e/ou Android, pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
 Esta oportunidade é para um dev que possa nos ajudar pelo menos 15 horas por semana, seja talentoso, curta trabalhar em casa mas seja disciplinado e o principal MUITO RESPONSÁVEL quanto prazos e tarefas.
 
 Todo dia precisamos de um report sobre a situação das tarefas, e caso haja algum problema durante a execução agilizamos esforços para resolvê-lo o quanto antes.
@@ -17,9 +17,8 @@ Todo dia precisamos de um report sobre a situação das tarefas, e caso haja alg
 * SER UMA PESSOA JURÍDICA (EMPRESA ABERTA + CONTA BANCÁRIA PJ)
 * Curtir trabalhar de casa, mas ser RESPONSÁVEL quanto prazos e tarefas.
 * Ser autodidata. Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google.
-* Ter Ruby on Rails na veia!
-* Ter uma base em: postgreSQL, Git, Angular JS e Jquery
-* Ter trabalhado ou saber trabalhar com a construção de API's, utilizando padrões como JSON API.
+* Conhecimento profundo na construção de aplicativos iOS (Objective C e swift)
+ ou Android.
 
 ## Salário
 
