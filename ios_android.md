@@ -34,8 +34,6 @@ Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R
 
 Buscamos alguém que curta trabalhar de forma mais livre, mas que saiba levar a sério seus compromissos.
 
-# Curtiu a vaga e se encaixa em todos os requisitos? Então fale com a gente!
+# Curtiu? Então fale com a gente!
 
-Se você se encaixa nesses requisitos mande seu CV pra gente!
-
-# douglas@petbooking.com.br
+douglas@petbooking.com.br
