@@ -27,10 +27,10 @@ Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R
 
 ## POR FAVOR, NÃO ENVIE SEU CURRÍCULO SE VOCÊ:
 
-1. não atende TODOS os requisitos
-2. não abriu o site, não baixou o app, e não buscou informações sobre a empresa.
-3. não é responsável com seus compromissos
-4. só trabalha com alguém te pressionando o tempo todo.
+1. Não atende TODOS os requisitos
+2. Não abriu o site, não baixou o app, e não buscou informações sobre a empresa.
+3. Não é responsável com seus compromissos
+4. Só trabalha com alguém te pressionando o tempo todo.
 
 
 Buscamos alguém que curta trabalhar de forma mais livre, mas que saiba levar a sério seus compromissos.

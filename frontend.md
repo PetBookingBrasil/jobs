@@ -19,8 +19,7 @@ Todo dia precisamos de um report sobre a situação das tarefas, e caso haja alg
 * Ser autodidata. Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google.
 * Conhecimento profundo de HTML, CSS, Javascript e construção de páginas focadas em melhores resultados de SEO.
 * Base em AngularJS
-* Boas noções de design e construção de páginas em PSD
-
+* Ser um Designer nato
 
 ## Salário
 
@@ -28,10 +27,10 @@ Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R
 
 ## POR FAVOR, NÃO ENVIE SEU CURRÍCULO SE VOCÊ:
 
-1. não atende TODOS os requisitos
-2. não abriu o site, não baixou o app, e não buscou informações sobre a empresa.
-3. não é responsável com seus compromissos
-4. só trabalha com alguém te pressionando o tempo todo.
+1. Não atende TODOS os requisitos
+2. Não abriu o site, não baixou o app, e não buscou informações sobre a empresa.
+3. Não é responsável com seus compromissos
+4. Só trabalha com alguém te pressionando o tempo todo.
 
 
 Buscamos alguém que curta trabalhar de forma mais livre, mas que saiba levar a sério seus compromissos.
