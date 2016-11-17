@@ -7,7 +7,8 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 
-Estamos em busca de um designer freelancer PJ, nível sênior, apaixonado por inovação e tecnologia!
+Estamos em busca de um designer freelancer PJ, nível sênior, apaixonado por pets, inovação e muita tecnologia!
+
 
 
 ## Requisitos:
@@ -17,7 +18,7 @@ Estamos em busca de um designer freelancer PJ, nível sênior, apaixonado por in
 * Ter formação na área de design.
 * Pelo menos 4 anos de experiência com design de websites/aplicativos.
 * Portfólio com pelo menos 5 projetos.
-* Ser responsável, inovador e realmente criativo.
+* Ser uma pessoa responsável, inovadora e realmente criativa.
 * Ter uma base de UX.
 * HTML, CSS, JS e Angular são diferenciais que com certeza fazem toda diferença.
 
