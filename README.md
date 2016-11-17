@@ -2,6 +2,8 @@
 
 # jobs
 
+* [Designer - Freelancer](/designer.md)
 * [Backend - Freelancer](/backend.md)
 * [Frontend - Freelancer](/frontend.md)
-* [iOS e Android - Freelancer](/ios_android.md)
+* [iOS - Freelancer](/ios_android.md)
+* [Android - Freelancer](/ios_android.md)
