@@ -13,7 +13,7 @@ Esta oportunidade é para um dev que possa nos ajudar pelo menos 15 horas por se
 Todo dia precisamos de um report sobre a situação das tarefas, e caso haja algum problema durante a execução agilizamos esforços para resolvê-lo o quanto antes.
 
 ## Requisitos:
-* Ser um Designer nato
+* Ser formado em design
 * SER UMA PESSOA JURÍDICA (EMPRESA ABERTA + CONTA BANCÁRIA PJ)
 * Curtir trabalhar de casa, mas ser RESPONSÁVEL quanto prazos e tarefas.
 * Ser autodidata. Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google.
