@@ -2,5 +2,4 @@
 
 # jobs
 
-* [Frontend - Freelancer](/frontend.md)
-* [iOS - Freelancer](/ios_android.md)
+[Nenhuma vaga aberta no momento]
