@@ -5,7 +5,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 
 # A vaga
-Estamos em busca de um freelancer PJ backend, pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
+Estamos em busca de um PJ backend, pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
 Esta oportunidade é para um dev que seja talentoso, disciplinado e o principal MUITO RESPONSÁVEL quanto prazos e tarefas.
 
 ## Requisitos:
@@ -23,7 +23,9 @@ Esta oportunidade é para um dev que seja talentoso, disciplinado e o principal 
 * Ser autodidata. Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google;
 
 ## Diferenciais
-* AngularJS
+* Experiência com React ou outra lib JS.
+* Curso de Scrum, ou Agile.
+* Habilidade para liderar time de tecnologia e gerir pessoas.
 
 ## Salário
 Negociável de acordo com experiência, habilidades e grau de proeficiência.
