@@ -25,7 +25,7 @@ Esta oportunidade é para um dev que seja talentoso, disciplinado e o principal 
 ## Diferenciais
 * Experiência com React ou outra lib JS.
 * Curso de Scrum, ou Agile.
-* Habilidade para liderar time de tecnologia e gerir pessoas.
+* Habilidade para liderar e gerir pessoas.
 
 ## Salário
 Negociável de acordo com experiência, habilidades e grau de proeficiência.
