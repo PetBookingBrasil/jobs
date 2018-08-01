@@ -11,7 +11,7 @@ Esta oportunidade é para um dev que seja talentoso, disciplinado muito respons�
 ## Requisitos:
 * Nível pleno ou sênior;
 * Ser uma pessoa jurídica com empresa aberta e conta bancária PJ;
-* Pelo menos 5 anos de experiência com desenvolvimento Ruby on Rails;
+* Pelo menos 4 anos de experiência com desenvolvimento Ruby on Rails;
 * Bacharelado em Ciência da computação ou similar;
 * Experiência com Sidekiq ou similar;
 * Rspec, Capybara;
