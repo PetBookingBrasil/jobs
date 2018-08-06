@@ -15,6 +15,12 @@ Estamos em busca de 3 estagiários Backend, apaixonados por desenvolvimento WEB,
 * Conhecimento em Javascript;
 * Lógica de programação.
 
+## Diferenciais:
+* Git;
+* TDD;
+* Rspec;
+* API's RestFUL;
+
 
 ## Salário & Benefícios
 - Bolsa: R$ 1100
