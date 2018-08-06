@@ -15,10 +15,10 @@ Estamos em busca de um estagiário backend, apaixonado por desenvolvimento WEB, 
 * Linux;
 * Conhecimento em banco de dados (Bancos SQL preferencialmente);
 * Conhecimento em Javascript;
+* Git;
 * Lógica de programação.
 
 ## Diferenciais:
-* Git;
 * TDD;
 * Rspec;
 * API's RestFUL;
