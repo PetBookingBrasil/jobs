@@ -16,7 +16,8 @@ Estamos em busca de um estagiário backend, apaixonado por desenvolvimento WEB, 
 * Conhecimento em banco de dados (Bancos SQL preferencialmente);
 * Conhecimento em Javascript;
 * Git;
-* Lógica de programação e orientação a objetos.
+* Lógica de programação e orientação a objetos;
+* Inglês intermediário, leitura e escrita.
 
 ## Diferenciais:
 * TDD;
