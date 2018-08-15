@@ -26,7 +26,7 @@ Estamos em busca de um(a) estagiário(a) backend, apaixonado por desenvolvimento
 
 
 ## Salário & Benefícios
-- Bolsa: R$ 1100
+- Bolsa: R$ 1200
 - Vale Alimentação: R$ 420
 - Vale Transporte
 
