@@ -5,7 +5,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 
 # Vagas
-### Quantidade: 3
+### Quantidade: 1
 ### Descrição:
 Estamos em busca de um(a) estagiário(a) backend, apaixonado por desenvolvimento WEB, que curta o ambiente desafiador de Startup, goste de aprender coisas novas, aprenda rápido e tenha muita sede de crescimento profissional para se tornar um(a) futuro líder.
 
@@ -31,4 +31,4 @@ Estamos em busca de um(a) estagiário(a) backend, apaixonado por desenvolvimento
 - Vale Transporte
 
 # Curtiu? Então me mande seu currículo!
-douglas@petbooking.com.br
+mada@petbooking.com.br
