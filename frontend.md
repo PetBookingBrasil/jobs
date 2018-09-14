@@ -7,10 +7,10 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 
-Estamos em busca de um freelancer PJ frontend, pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
-Esta oportunidade é para um dev que possa nos ajudar pelo menos 15 horas por semana, seja talentoso, curta trabalhar em casa mas seja disciplinado e o principal MUITO RESPONSÁVEL quanto prazos e tarefas.
+Estamos em busca de um designer frontend, pleno ou sênior, apaixonado por inovação, tecnologia e encantamento de usuários!
 
-Todo dia precisamos de um report sobre a situação das tarefas, e caso haja algum problema durante a execução agilizamos esforços para resolvê-lo o quanto antes.
+Essa vaga é PJ presencial para Curitiba, e tem o salário de R$ 4500
+
 
 ## Requisitos & Atividades desempenhadas:
 * Ser formado em design ou ter experiência na área;
@@ -20,18 +20,11 @@ Todo dia precisamos de um report sobre a situação das tarefas, e caso haja alg
 * Boas noções de UX;
 * Prototipação de aplicativos e afins;
 * Construção de wireframes;
+* Pelo menos 4 anos de experiência com desenvolvimento frontend
 
+## Diferênciais
 
-
-## POR FAVOR, NÃO ENVIE SEU CURRÍCULO SE VOCÊ:
-
-1. Não atende TODOS os requisitos
-2. Não abriu o site, não baixou o app, e não buscou informações sobre a empresa.
-3. Não é responsável com seus compromissos
-4. Só trabalha com alguém te pressionando o tempo todo.
-
-
-Buscamos alguém que curta trabalhar de forma mais livre, mas que saiba levar a sério seus compromissos.
+* Epxeriência com projetos estruturados em Ruby on Rails
 
 # Curtiu?
 Se você curtiu a vaga, nos mande por email (mada@petbooking.com.br):
@@ -39,5 +32,3 @@ Se você curtiu a vaga, nos mande por email (mada@petbooking.com.br):
 - Link do seu linkedin / CV
 - Link do seu portfólio
 - Link para seu trabalho mais relevante
-
-
