@@ -24,7 +24,8 @@ Essa vaga é PJ presencial para Curitiba, e tem o salário de R$ 4500
 
 ## Diferênciais
 
-* Epxeriência com projetos estruturados em Ruby on Rails
+* Experiência com projetos estruturados em Ruby on Rails;
+* Conhecimento em REACT.
 
 # Curtiu?
 Se você curtiu a vaga, nos mande por email (mada@petbooking.com.br):
