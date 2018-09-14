@@ -22,7 +22,7 @@ Essa vaga é PJ presencial para Curitiba, e tem o salário de R$ 4500
 * Construção de wireframes;
 * Pelo menos 4 anos de experiência com desenvolvimento frontend
 
-## Diferênciais
+## Diferenciais
 
 * Experiência com projetos estruturados em Ruby on Rails;
 * Conhecimento em REACT.
