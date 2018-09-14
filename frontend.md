@@ -12,18 +12,16 @@ Esta oportunidade é para um dev que possa nos ajudar pelo menos 15 horas por se
 
 Todo dia precisamos de um report sobre a situação das tarefas, e caso haja algum problema durante a execução agilizamos esforços para resolvê-lo o quanto antes.
 
-## Requisitos:
-* Ser formado em design
-* SER UMA PESSOA JURÍDICA (EMPRESA ABERTA + CONTA BANCÁRIA PJ)
-* Curtir trabalhar de casa, mas ser RESPONSÁVEL quanto prazos e tarefas.
-* Ser autodidata. Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google.
-* Conhecimento profundo de HTML, CSS, Javascript e construção de páginas focadas em melhores resultados de SEO.
-* Base em AngularJS
+## Requisitos & Atividades desempenhadas:
+* Ser formado em design ou ter experiência na área;
+* Conhecimento profundo de HTML, CSS e Javascript;
+* Jquery;
+* SEO;
+* Boas noções de UX;
+* Prototipação de aplicativos e afins;
+* Construção de wireframes;
 
 
-## Salário
-
-Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R$ 50 / hora, pagos por empreitada, ou seja, assim que você fechar um bloco de tarefas, você já recebe!
 
 ## POR FAVOR, NÃO ENVIE SEU CURRÍCULO SE VOCÊ:
 
@@ -36,7 +34,7 @@ Depende do seu nível, da sua agilidade e da sua forma de trabalhar. Em média R
 Buscamos alguém que curta trabalhar de forma mais livre, mas que saiba levar a sério seus compromissos.
 
 # Curtiu?
-Se você curtiu a vaga, nos mande por email (douglas@petbooking.com.br):
+Se você curtiu a vaga, nos mande por email (mada@petbooking.com.br):
 
 - Link do seu linkedin / CV
 - Link do seu portfólio
