@@ -13,19 +13,18 @@ Essa vaga é PJ presencial para Curitiba, e tem o salário de R$ 4500
 
 
 ## Requisitos & Atividades desempenhadas:
-* Ser formado em design ou ter experiência na área;
 * Conhecimento profundo de HTML, CSS e Javascript;
 * Jquery;
 * SEO;
 * Boas noções de UX;
 * Prototipação de aplicativos e afins;
 * Construção de wireframes;
-* Pelo menos 4 anos de experiência com desenvolvimento frontend
+* Pelo menos 2 anos de experiência com desenvolvimento frontend
+* Conhecimento em REACT.
 
 ## Diferenciais
-
 * Experiência com projetos estruturados em Ruby on Rails;
-* Conhecimento em REACT.
+
 
 # Curtiu?
 Se você curtiu a vaga, nos mande por email (mada@petbooking.com.br):
