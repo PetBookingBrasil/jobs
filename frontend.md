@@ -9,7 +9,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 Estamos em busca de um designer frontend, pleno ou sênior, apaixonado por inovação, tecnologia e principalmente por encantar usuários!
 
-Essa vaga é PJ presencial para Curitiba, e tem o salário de R$ 4500
+Essa vaga é PJ presencial para Curitiba.
 
 
 ## Requisitos & Atividades desempenhadas:
