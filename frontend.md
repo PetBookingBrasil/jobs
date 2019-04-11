@@ -7,7 +7,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 
-Estamos em busca de um designer frontend, pleno ou sênior, apaixonado por inovação, tecnologia e principalmente por encantar usuários!
+Estamos em busca de um designer frontend, pleno apaixonado por inovação, tecnologia e principalmente por encantar usuários!
 
 Essa vaga é PJ presencial para Curitiba.
 
