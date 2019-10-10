@@ -12,8 +12,9 @@ Essa vaga é **home office, mas temos reuniões presenciais todas as segundas-fe
 * Saber escrever testes com Rspec;
 * Estar confortável com o uso do Git;
 * Boa bagagem de SQL;
+* Experiência com Elasticsearch;
 * Conhecimento em HTML, CSS e JS;
-* Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google;
+* Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google.
 
 ## Diferenciais
 * Experiência com React ou outra lib JS;
