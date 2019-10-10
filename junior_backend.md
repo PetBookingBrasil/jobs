@@ -4,7 +4,7 @@ Somos um e-marketplace que tem como objetivo fornecer soluções tecnologicas e 
 A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que fazem e investidores experientes e bem sucedidos nos setores de tecnologia, marketing e vendas, eventos e gestão financeira.
 
 # A vaga
-Estamos em busca de um(a) dev backend, **JUNIOR**, apaixonado por inovação, tecnologia, e claro, muito código!
+Estamos em busca de um(a) dev PJ, backend, **JUNIOR**, apaixonado por inovação, tecnologia, e claro, muito código!
 Essa vaga é **home office, mas temos reuniões presenciais todas as segundas-feiras**, das 09:00 às 12:00, então mesmo sendo uma vaga remota, você **precisa morar em Curitiba**.
 
 ## Requisitos:
