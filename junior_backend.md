@@ -5,7 +5,8 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # As vagas
 Temos **duas vagas 100% Home Office** para desenvolvimento **backend**, nível **Junior**, na modalidade PJ para pessoas apaixonadas por inovação, tecnologia, e claro, muito código!
-**Somos focados em entregas**, mas prezamos liberdade de tempo e espaço, então, com exceção de algumas reuniões semanais que possuem horário fixo, você estará 100% livre para trabalhar de onde e quando quiser.
+
+**Somos focados em entregas**, mas prezamos pela liberdade de tempo e espaço, log, com exceção de algumas reuniões semanais que possuem horário fixo, você estará 100% livre para trabalhar de onde e quando quiser.
 
 ## Requisitos:
 * Pelo menos 1 ano de experiência com desenvolvimento Ruby on Rails;
