@@ -2,4 +2,4 @@
 
 # jobs
 
-[Nenhuma vaga aberta no momento]
+[2 vagas backend Junior](https://github.com/PetBookingBrasil/jobs/blob/master/junior_backend.md)
