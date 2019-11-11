@@ -5,7 +5,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 Estamos em busca de um(a) dev PJ, backend, **JUNIOR**, apaixonado por inovação, tecnologia, e claro, muito código!
-Essa vaga é **home office, mas temos reuniões presenciais todas as segundas-feiras**, das 09:00 às 12:00, então mesmo sendo uma vaga remota, você **precisa morar em Curitiba**.
+Essa vaga é **100% home office**.
 
 ## Requisitos:
 * Pelo menos 1 ano de experiência com desenvolvimento Ruby on Rails;
@@ -20,7 +20,7 @@ Essa vaga é **home office, mas temos reuniões presenciais todas as segundas-fe
 * Experiência com React ou outra lib JS;
 * Experiência com TDD;
 * Experiência com Sidekiq ou similar;
-* Experiência com o desenvolvimento de API's RESTful, preferencialmente utilizando padrões do JSON API;
+* Experiência com o desenvolvimento de API's RESTful, preferencialmente utilizando padrões do JSON API ou Grape;
 
 ## Salário
 R$ 2560,00
