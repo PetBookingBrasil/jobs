@@ -4,7 +4,7 @@ Somos um e-marketplace que tem como objetivo fornecer soluções tecnologicas e 
 A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que fazem e investidores experientes e bem sucedidos nos setores de tecnologia, marketing e vendas, eventos e gestão financeira.
 
 # As vagas
-Temos duas vagas **100% Home Office** para desenvolvimento **backend**, nível **Junior**, na modalidade PJ para pessoas apaixonadas por inovação, tecnologia, e claro, muito código!
+Temos **duas vagas 100% Home Office** para desenvolvimento **backend**, nível **Junior**, na modalidade PJ para pessoas apaixonadas por inovação, tecnologia, e claro, muito código!
 **Somos focados em entregas**, mas prezamos liberdade de tempo e espaço, então, com exceção de algumas reuniões semanais que possuem horário fixo, você estará 100% livre para trabalhar de onde e quando quiser.
 
 ## Requisitos:
