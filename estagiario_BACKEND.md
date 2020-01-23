@@ -1,3 +1,5 @@
+# PRESENCIAL - CURITIBA
+
 # Sobre nós
 Somos um e-marketplace que tem como objetivo fornecer soluções tecnológicas e inovadoras para facilitar o dia a dia de empresas prestadoras de serviços do segmento Pet e das pessoas que possuem Pets, tornando mais fácil o agendamento de serviços de banho, tosa, consultas veterinárias, hoteiszinhos, creches, passeadores, entre outros, de forma simples, rápida e segura e a qualquer hora. 
 
@@ -29,5 +31,5 @@ Estamos em busca de um(a) estagiário(a) backend, apaixonado por desenvolvimento
 - Vale Alimentação: R$ 400
 - Vale Transporte: R$ 200
 
-# Curtiu? Então me mande seu currículo!
+# Curtiu? Se você mora em Curitiba, então me mande seu currículo!
 douglas@petbooking.com.br
