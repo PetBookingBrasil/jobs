@@ -5,7 +5,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 
 # Vagas
-### Quantidade: 1
+### Quantidade: 4
 ### Descrição:
 Estamos em busca de um(a) estagiário(a) backend, apaixonado por desenvolvimento WEB, que curta o ambiente desafiador de Startup, goste de aprender coisas novas, aprenda rápido e tenha muita sede de crescimento profissional para se tornar um(a) futuro líder.
 
@@ -24,11 +24,10 @@ Estamos em busca de um(a) estagiário(a) backend, apaixonado por desenvolvimento
 * Rspec;
 * API's RestFUL;
 
-
 ## Salário & Benefícios
 - Bolsa: R$ 1200
 - Vale Alimentação: R$ 400
-- Vale Transporte
+- Vale Transporte: R$ 200
 
 # Curtiu? Então me mande seu currículo!
-mada@petbooking.com.br
+douglas@petbooking.com.br
