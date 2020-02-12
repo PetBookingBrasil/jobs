@@ -6,7 +6,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 Estamos em busca de um PJ backend, nível pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
-Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo com essa liberdade, somos muito focados em prazos e entregas. Queremos alguém que não queira apenas um salário, mas que queira empreender e crescer conosco, por isso essa vaga em particular oferece um vesting equivalente a 100% do salário, ou seja, para cada real do seu salário, você recebe o mesmo montante em participações da empresa.
+Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo com essa liberdade, somos muito focados em prazos e entregas. Queremos alguém que não queira apenas um salário, mas que queira empreender e crescer conosco, por isso essa vaga em particular oferece um *contrato de vesting* equivalente a 100% do salário, ou seja, para cada real do seu salário, você recebe o mesmo montante em participações da empresa.
 
 ## Requisitos:
 * Nível pleno ou sênior;
