@@ -5,8 +5,8 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 
 # A vaga
-Estamos em busca de um PJ backend, pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
-Esta oportunidade é para um dev que seja talentoso, disciplinado muito responsável quanto a prazos e tarefas e que preferencialmente resida em CURITIBA (existe possibilidade de trabalho REMOTO).
+Estamos em busca de um PJ backend, nível pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
+Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo com essa liberdade, somos muito focados em prazos e entregas. Queremos alguém que não queira apenas um salário, mas que queira empreender e crescer conosco, por isso essa vaga em particular oferece um vesting equivalente a 100% do salário, ou seja, para cada real do seu salário, você recebe o mesmo montante em participações da empresa.
 
 ## Requisitos:
 * Nível pleno ou sênior;
