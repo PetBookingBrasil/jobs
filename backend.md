@@ -5,11 +5,11 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 
 # A vaga
-Estamos em busca de um PJ backend, nível pleno ou sênior, apaixonado por inovação, tecnologia, e claro, muito código!
+Estamos em busca de um PJ backend, nível pleno, apaixonado por inovação, tecnologia, e claro, muito código!
 Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo com essa liberdade, somos muito focados em prazos e entregas. Queremos alguém que não queira apenas um salário, mas que queira empreender e crescer conosco, por isso essa vaga em particular oferece um *contrato de vesting* equivalente a 100% do salário, ou seja, para cada real do seu salário, você recebe o mesmo montante em participações da empresa.
 
 ## Requisitos:
-* Nível pleno ou sênior;
+* Nível pleno;
 * Ser uma pessoa jurídica com empresa aberta e conta bancária PJ;
 * Pelo menos 4 anos de experiência com desenvolvimento Ruby on Rails;
 * Bacharelado em Ciência da computação ou similar;
@@ -24,16 +24,10 @@ Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo c
 
 ## Diferenciais
 * Experiência com React ou outra lib JS.
-* Curso de Scrum, ou Agile.
 * Habilidade para liderar e gerir pessoas.
 
 ## Salário
-Negociável de acordo com experiência, habilidades e grau de proeficiência.
-
-## POR FAVOR, NÃO ENVIE SEU CURRÍCULO SE VOCÊ:
-1. Não atende TODOS os requisitos.
-2. Não abriu o site, não baixou o app, e não buscou informações sobre a empresa.
-3. Não é responsável com seus compromissos e só trabalha com alguém te pressionando o tempo todo.
+R$ 4.000,00
 
 # Curtiu? Então me mande seu currículo!
 douglas@petbooking.com.br
