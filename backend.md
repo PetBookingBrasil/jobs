@@ -16,10 +16,9 @@ Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo c
 * Experiência com Sidekiq ou similar;
 * Rspec, Capybara;
 * Preferencialmente experiência com PostgreSQL;
-* CoffeeScript, Javascript, Jquery;
 * Git;
-* Conhecimento em Heroku, AWS ou Google Cloud Service;
-* Experiência com o desenvolvimento de API's RESTful, preferencialmente utilizando padrões do JSON API;
+* Conhecimento em Heroku, AWS;
+* Experiência com o desenvolvimento de API's RESTful, preferencialmente utilizando Grape;
 * Ser autodidata. Antes de pedir ajuda, pesquisa e busca conhecimento no projeto e no Google;
 
 ## Diferenciais
