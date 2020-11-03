@@ -27,7 +27,7 @@ Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo c
 * Habilidade para liderar e gerir pessoas.
 
 ## Salário
-R$ 4.000,00
+R$ 5.000,00
 
 # Curtiu? Então me mande seu currículo!
 douglas@petbooking.com.br
