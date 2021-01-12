@@ -25,8 +25,5 @@ Somos um time que trabalha 100% remoto, e com flexibilidade de horário. Mesmo c
 * Experiência com React ou outra lib JS.
 * Habilidade para liderar e gerir pessoas.
 
-## Salário
-R$ 5.000,00
-
 # Curtiu? Então me mande seu currículo!
 douglas@petbooking.com.br
