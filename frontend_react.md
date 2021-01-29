@@ -9,7 +9,7 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 Estamos em busca de um(a) dev frontend, pleno apaixonado por inovação, tecnologia e principalmente por encantar usuários!
 
-Essa vaga é PJ 100% remota!
+Essa vaga é PJ e 100% remota!
 
 ## Requisitos Obrigatórios
 * React
