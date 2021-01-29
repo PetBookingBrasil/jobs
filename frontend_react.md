@@ -7,27 +7,29 @@ A Pets Booking S/A é formada por empreendedores e equipe apaixonados pelo que f
 
 # A vaga
 
-Estamos em busca de um(a) designer frontend, pleno apaixonado por inovação, tecnologia e principalmente por encantar usuários!
+Estamos em busca de um(a) dev frontend, pleno apaixonado por inovação, tecnologia e principalmente por encantar usuários!
 
-Essa vaga é PJ presencial para Curitiba.
+Essa vaga é PJ 100% remota!
 
-
-## Requisitos & Atividades desempenhadas:
-* Conhecimento profundo de HTML, CSS e Javascript;
-* Jquery;
-* SEO;
-* Boas noções de UX;
-* Prototipação de aplicativos e afins;
-* Construção de wireframes;
-* Pelo menos 2 anos de experiência com desenvolvimento frontend
-* Conhecimento em REACT.
+## Requisitos Obrigatórios
+* React
+* ReduxSaga
+* Experiencia com Integrações a api’s RESTfull
+* Familiaridade com HTML, CSS e JS
+* Conhecimento e/ou familiaridade dos padrões ECMAScript 2015+ (ES6+)
+* Experiência com versionamento de código usando GIT
 
 ## Diferenciais
+* Conhecimentos em React-Native
+* JEST e/ou Testing Library
+* Formatação avançada com: Styled-components / Material-UI / JSS
+* Arquitetura flux
+* Storybook
 * Experiência com projetos estruturados em Ruby on Rails;
 
 
 # Curtiu?
-Se você curtiu a vaga, nos mande por email (mada@petbooking.com.br):
+Se você curtiu a vaga, nos mande por email (douglas@petbooking.com.br):
 
 - Link do seu linkedin / CV
 - Link do seu portfólio
